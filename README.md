@@ -20,7 +20,7 @@
 
 Software Engineering student at **Sichuan University** passionate about AI/ML, web development, and computer vision. I love turning ideas into functional, impactful software.
 
-- 🔭 Currently working on **robotics and computer vision projects**
+- 🔭 Currently working on **reinforcement learning**
 - 🌱 Learning **deep learning and cloud technologies**
 - 🎯 Goal: **Build products that make a difference**
 
