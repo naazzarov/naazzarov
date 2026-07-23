@@ -12,6 +12,9 @@
   <a href="https://github.com/naazzarov">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://naazzarov.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-%23C9A962?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br>
