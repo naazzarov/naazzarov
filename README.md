@@ -33,7 +33,7 @@ Software Engineering student at **Sichuan University** passionate about AI/ML, w
 | **Languages** | C, C++, Python, Java, JavaScript, Dart |
 | **Frontend & Mobile** | HTML5, CSS3, Flutter |
 | **Backend & Data** | Node.js, PostgreSQL, SQLite, Firebase |
-| **AI/ML & Vision** | OpenCV, OpenAI, ROS |
+| **AI/ML & Vision** | PyTorch, Scikit-learn, Reinforcement Learning, OpenCV, OpenAI, ROS |
 | **Tools** | Git, GitHub, Cloudflare, Linux |
 
 <br>
