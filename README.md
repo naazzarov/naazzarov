@@ -42,7 +42,7 @@ Software Engineering student at **Sichuan University** passionate about AI/ML, w
 
 **Client & production sites**
 - 🤖 **Robotshow Indonesia** — humanoid & quadruped robot rental company site, bilingual EN/ID, SEO-optimized *(private repo)*
-- 🏢 **FARCENT** — corporate site for an investment holding company with an admin dashboard and in-browser AI chatbot *(private repo, [public preview](https://naazzarov.github.io/farcent-website-preview/))*
+- 🏢 **FARCENT** — corporate site for an investment holding company with an admin dashboard and in-browser AI chatbot *(private repo)*
 - 🎻 **Vortech** — robotics company website *(private repo)*
 
 **Open source & research**
