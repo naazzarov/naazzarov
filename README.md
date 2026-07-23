@@ -32,17 +32,24 @@ Software Engineering student at **Sichuan University** passionate about AI/ML, w
 |---|---|
 | **Languages** | C, C++, Python, Java, JavaScript, Dart |
 | **Frontend & Mobile** | HTML5, CSS3, Flutter |
+| **Backend & Data** | Node.js, PostgreSQL, SQLite, Firebase |
 | **AI/ML & Vision** | OpenCV, OpenAI, ROS |
-| **Backend & DB** | Firebase |
-| **Tools** | Git, GitHub, Linux |
+| **Tools** | Git, GitHub, Cloudflare, Linux |
 
 <br>
 
 ## 📌 Featured Projects
 
-- 🤖 **[Player Performance Predictor](https://github.com/naazzarov/player-performance-predictor)** — ML model for predicting football player ratings
-- 📱 **[Flutter Apps](https://github.com/naazzarov/)** — Mobile applications built with Flutter & Dart
-- 🔬 **[Computer Vision & Robotics](https://github.com/naazzarov/)** — Projects using OpenCV and ROS
+**Client & production sites**
+- 🤖 **Robotshow Indonesia** — humanoid & quadruped robot rental company site, bilingual EN/ID, SEO-optimized *(private repo)*
+- 🏢 **FARCENT** — corporate site for an investment holding company with an admin dashboard and in-browser AI chatbot *(private repo, [public preview](https://naazzarov.github.io/farcent-website-preview/))*
+- 🎻 **Vortech** — robotics company website *(private repo)*
+
+**Open source & research**
+- ⚽ **[Player Performance Predictor](https://github.com/naazzarov/player-performance-predictor)** — ML model forecasting football player ratings across future seasons
+- 🌳 **[Trie Benchmark](https://github.com/naazzarov/trie-benchmark)** — C++ comparison of Standard, Compressed, and Double-Array Tries for a space-time trade-off paper
+- 🍔 **[Yelp Big Data Analysis](https://github.com/naazzarov/yelp-big-data-analysis)** — natural language → SQL API with connection pooling and OpenAI integration
+- 💣 **[Bomb Diffuser](https://github.com/naazzarov/bomb-diffuser)** — assembly-level analysis and documentation
 
 <br>
 
