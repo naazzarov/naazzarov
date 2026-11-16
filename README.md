@@ -8,12 +8,6 @@ Software Engineering undergraduate at **Sichuan University**, based in Chengdu, 
 
 ## Research
 
-### Object-Aware Reinforcement Learning for Adaptive Diffusion-Based Image Restoration
-
-**Undergraduate thesis · 2026–2027 · Ongoing**
-
-Investigating reinforcement learning for adaptive image restoration with diffusion models. Current work focuses on reviewing the literature and selecting a suitable dataset.
-
 ### From Slices to Volumes
 
 **Pulmonary nodule malignancy-risk classification · Team study**
