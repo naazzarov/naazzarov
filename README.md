@@ -40,10 +40,10 @@ Software Engineering undergraduate at **Sichuan University**, Chengdu, China. I 
 
 ## Research
 
-**From Slices to Volumes**  
-Pulmonary nodule malignancy-risk classification using 2D, 2.5D, and 3D residual networks on **2,654 LIDC-IDRI nodules**. I implemented the 2D ResNet-18 track, supervised and MoCo experiments, augmentation, and three-seed evaluation. Patient-disjoint splits; radiologist risk labels.
+**From Slices to Volumes: Comparing 2D, 2.5D, and 3D Residual Networks for Pulmonary Nodule Malignancy-Risk Classification**  
+arXiv preprint · 2026
 
-[Code & results](https://github.com/CT-DeepLearning-Team/CT-2D-2.5D-3D-DeepLearning) · [Manuscript](https://github.com/CT-DeepLearning-Team/CT-2D-2.5D-3D-DeepLearning/blob/main/paper/2D-2.5D-3D.pdf)
+[Read on arXiv](https://arxiv.org/abs/2610.35960) · [GitHub repository](https://github.com/CT-DeepLearning-Team/CT-2D-2.5D-3D-DeepLearning)
 
 **Spatial Blocking and Group-Aggregate Leakage**  
 Research on evaluation leakage in urban prediction, using **1.21 million Chicago business-licence records** and a New York replication. Includes the data pipeline, experiment outputs, and manuscript.
